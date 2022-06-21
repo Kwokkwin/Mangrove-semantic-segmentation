@@ -22,7 +22,7 @@ veg_dataset: all "*.veg.tif" files from arcgis_dataset</br>
 
 dataset_filter.ipynb:  </br>
 balance_class.ipynb:</br>
-split_pic.ipynb: Split 2500*2500 image to 256*256 image</br>
-veg_resize.ipynb: Expanise each pixel by 10*10</br>
+split_pic.ipynb: Split 2500\*2500 image to 256\*256 image</br>
+veg_resize.ipynb: Expanise each pixel by 10\*10</br>
 morphology.ipynb: Erode the non-smooth boundaries.(to be considered)</br>
 separate_dataset(622).ipynb</br>
