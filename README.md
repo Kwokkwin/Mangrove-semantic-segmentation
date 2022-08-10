@@ -14,7 +14,7 @@ veg1_color.xlsx: Vegetation mask color chosen(43 class)
 **Project Structure**</br>
 <img width="469" alt="Screen Shot 2022-06-22 at 8 51 26 am" src="https://user-images.githubusercontent.com/70581958/174909665-6fe13945-99aa-46cb-8aaf-bdf7d905f5cc.png">
 
-arcgis_dataset: raw data extracted from ArcGIS( 1m resolution 2500*2500*3 RGB images and 10cm resolution 250*250 grey vegs(labels))</br>
+arcgis_dataset: raw data extracted from ArcGIS( 1m resolution 2500\*2500\*3 RGB images and 10cm resolution 250\*250 grey vegs(labels))</br>
 img_dataset: all "*.image.tif" files from arcgis_dataset</br>
 veg_dataset: all "*.veg.tif" files from arcgis_dataset</br>
 
